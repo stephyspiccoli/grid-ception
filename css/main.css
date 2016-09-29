@@ -17,3 +17,20 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.unit {
+  float: left;
+}
+
+.grid {
+  overflow: hidden;
+}
